@@ -1,0 +1,73 @@
+[{
+        "precio": 450,
+        "id": 1,
+        "title": "NEW YORK",
+        "thumbnailUrl": "img/burger1.jpg"
+    },
+    {
+        "precio": 450,
+        "id": 2,
+        "title": "THE PAMPAS",
+        "thumbnailUrl": "img/burger2.jpg"
+    },
+    {
+        "precio": 450,
+        "id": 3,
+        "title": "KINDER BURGER",
+        "thumbnailUrl": "img/burger3.jpg"
+    },
+    {
+        "precio": 450,
+        "id": 4,
+        "title": "K.O",
+        "thumbnailUrl": "img/burger4.jpg"
+    },
+    {
+        "precio": 450,
+        "id": 5,
+        "title": "CHICKEN FLOW",
+        "thumbnailUrl": "img/burger5.jpg"
+    },
+    {
+        "precio": 450,
+        "id": 6,
+        "title": "TENNESSEE",
+        "thumbnailUrl": "img/burger6.jpg"
+    },
+    {
+        "precio": 450,
+        "id": 7,
+        "title": "THE BULL",
+        "thumbnailUrl": "img/burger7.jpg"
+    },
+    {
+        "precio": 250,
+        "id": 8,
+        "title": "NACHOS",
+        "thumbnailUrl": "img/nachos.jpg"
+    },
+    {
+        "precio": 200,
+        "id": 9,
+        "title": "PAPAS FRITAS",
+        "thumbnailUrl": "img/papas.jpg"
+    },
+    {
+        "precio": 150,
+        "id": 10,
+        "title": "CERVEZA",
+        "thumbnailUrl": "img/cerveza.jpg"
+    },
+    {
+        "precio": 200,
+        "id": 11,
+        "title": "MOJITO",
+        "thumbnailUrl": "img/mojito.jpg"
+    },
+    {
+        "precio": 200,
+        "id": 12,
+        "title": "JUGO DE NARANJA",
+        "thumbnailUrl": "img/jugo.jpg"
+    }
+]
